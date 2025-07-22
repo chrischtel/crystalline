@@ -1,8 +1,8 @@
 name: crystalline
-version: 0.17.2
+version: 0.18.0
 
 authors:
-  - Chris Chtel <ch@brendlinonline.de>
+  - Christian Brendlin <ch@brendlinonline.de>
   - Julien Elbaz <elbywan@hotmail.com> # Original author
 
 description: |
