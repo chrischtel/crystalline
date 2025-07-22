@@ -1,14 +1,19 @@
 name: crystalline
-version: 0.17.1
+version: 0.17.2
 
 authors:
-  - Julien Elbaz <elbywan@hotmail.com>
+  - Chris Chtel <ch@brendlinonline.de>
+  - Julien Elbaz <elbywan@hotmail.com> # Original author
+
+description: |
+  Language Server Protocol implementation for Crystal (maintained fork)
+
+repository: https://github.com/chrischtel/crystalline
+homepage: https://github.com/chrischtel/crystalline
 
 targets:
   crystalline:
     main: src/crystalline.cr
-  sentry:
-    main: lib/sentry/src/sentry_cli.cr
 
 dependencies:
   lsp:

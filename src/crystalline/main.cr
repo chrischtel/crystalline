@@ -4,8 +4,7 @@ require "./ext/*"
 require "./*"
 
 module Crystalline
-  VERSION = {{ (`shards version #{__DIR__}`.strip + "+" +
-                system("git rev-parse --short HEAD || echo unknown").stringify).stringify.strip }}
+  VERSION = "v0.1.0"
   # Supported server capabilities.
   SERVER_CAPABILITIES = LSP::ServerCapabilities.new(
     text_document_sync: LSP::TextDocumentSyncKind::Incremental,

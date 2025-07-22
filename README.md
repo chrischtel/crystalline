@@ -2,12 +2,16 @@
 	<img src="assets/icon.svg" width="128" height="128" />
 	<h1>crystalline</h1>
   <h3>A Language Server for Crystal.</h3>
-  <a href="https://github.com/elbywan/crystalline/actions?query=branch%3Amaster+workflow%3ABuild"><img alt="Build Status" src="https://github.com/elbywan/crystalline/workflows/Build/badge.svg?branch=master"></a>
-  <a href="https://github.com/elbywan/crystalline/tags"><img alt="GitHub tag (latest SemVer)" src="https://img.shields.io/github/v/tag/elbywan/crystalline"></a>
-  <a href="https://github.com/elbywan/crystalline/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/elbywan/crystalline"></a>
+  <a href="https://github.com/chrischtel/crystalline/actions"><img alt="Build Status" src="https://github.com/chrischtel/crystalline/workflows/Build/badge.svg?branch=master"></a>
+  <a href="https://github.com/chrischtel/crystalline/tags"><img alt="GitHub tag (latest SemVer)" src="https://img.shields.io/github/v/tag/chrischtel/crystalline"></a>
+  <a href="https://github.com/chrischtel/crystalline/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/chrischtel/crystalline"></a>
 </div>
 
 <hr/>
+
+> [!NOTE]
+> **Maintained Fork**: This is an actively maintained fork of the original [elbywan/crystalline](https://github.com/elbywan/crystalline) project. 
+> The original author has stepped back from active development, so this fork aims to continue development and bug fixes.
 
 **`Crystalline` is an implementation of the
 [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
@@ -17,33 +21,11 @@ semantic checking) and ease development with any compatible code editor.**
 
 > [!IMPORTANT]
 >
-> ### Project Status
+> ### Original Project Status (from elbywan/crystalline)
 >
-> I am **passively** maintaining this project which means that I will not be
-> regularly adding new features or fixing bugs. My time is **very** limited and I have
-> other projects that I want to work on.
+> The original author was **passively** maintaining this project and has since stepped back from active development.
 >
-> Crystalline begun as a fun experiment because at the time there was no working LSP for
-> Crystal, and was written mainly to cater to my own needs - on my free time. I was happy to
-> open-source it and share it with the community because I thought it could be
-> useful to others.
->
-> But over time, some vocal people in the Crystal community have been openly
-> trash-talking the project in the (un)official discord channel, telling users
-> to avoid using it and spreading misinformation, which I am not cool with.
->
-> Crystalline has a bunch of issues, but if you know what you are doing, it can be a very
-> useful tool. I know that because I am the primary user of it.
->
-> Due to the nature of the Crystal language and the way the compiler works, it
-> is not possible to provide a full-fledged language server with all the
-> features that one would expect. If you have a problem
-> with that, then I suggest you use another language - or wait for someone else
-> to write a better LSP (which I would be happy to see, but doubt will happen).
->
-> I am not paid to work on this project, I do it for fun.
->
-> **And unfortunately, the fun has been sucked out of it.**
+> This fork aims to continue active development, bug fixes, and improvements to make Crystalline a better tool for the Crystal community.
 
 <hr/>
 
