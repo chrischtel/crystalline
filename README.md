@@ -2,7 +2,7 @@
 	<img src="assets/icon.svg" width="128" height="128" />
 	<h1>crystalline</h1>
   <h3>A Language Server for Crystal.</h3>
-  <a href="https://github.com/chrischtel/crystalline/actions"><img alt="Build Status" src="https://github.com/chrischtel/crystalline/workflows/Build/badge.svg?branch=master"></a>
+  <!-- <a href="https://github.com/chrischtel/crystalline/actions"><img alt="Build Status" src="https://github.com/chrischtel/crystalline/workflows/Build/badge.svg?branch=master"></a> -->
   <a href="https://github.com/chrischtel/crystalline/tags"><img alt="GitHub tag (latest SemVer)" src="https://img.shields.io/github/v/tag/chrischtel/crystalline"></a>
   <a href="https://github.com/chrischtel/crystalline/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/chrischtel/crystalline"></a>
 </div>
